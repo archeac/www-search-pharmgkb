@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               WWW-Search-PharmGKB
-version:            2.02
+version:            2.04
 abstract:           Search and retrieve information from the PharmGKB database
 author:
     - Arun Venkataraman <arvktr@cpan.org>
